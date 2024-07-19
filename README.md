@@ -6,7 +6,7 @@ This repository is **NOT REVIEWED** and **WORK IN PROGRESS**. This status will b
 
 You can provide feedback by [opening an issue](https://github.com/elixirland/xlc-username-generator/issues/new) or contributing to this repository's [discussions](https://github.com/elixirland/xlc-username-generator/discussions).
 
-## Challenge description
+## Description
 ### Background
 Saša recently joined a team of developers and volunteered to build a random username generator. The team’s software requires users to log in via third-party authorization (e.g., Google, Apple, GitHub), and each user must have a unique username. Initially, the team considered requiring users to choose their usernames upon first login, but they decided to assign random usernames instead. Users can change their usernames later in the settings.
 
