@@ -1,5 +1,5 @@
 # Username Generator
-This is an Elixirland challenge. Read an introduction to Elixirland here: https://github.com/elixirland.
+This is an Elixirland exercise. Read an introduction to Elixirland here: https://github.com/elixirland.
 
 ## Status
 This repository is **NOT REVIEWED** and **WORK IN PROGRESS**. This status will be set to "reviewed" when enough feedback has been given on the code and documentation in the `solution` directory.
