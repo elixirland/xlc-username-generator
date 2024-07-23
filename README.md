@@ -2,27 +2,34 @@
 This is an Elixirland exercise. Read an introduction to Elixirland here: https://github.com/elixirland.
 
 ## Status
-This repository is **NOT REVIEWED** and **WORK IN PROGRESS**. This status will be set to "reviewed" when enough feedback has been given on the code and documentation in the `solution` directory.
+Description: *Not Reviewed*<br>
+Solution:    *In Development*
 
-You can provide feedback by [opening an issue](https://github.com/elixirland/xlc-username-generator/issues/new) or contributing to this repository's [discussions](https://github.com/elixirland/xlc-username-generator/discussions).
+> [!NOTE]  
+> The possible statuses of exercises and their example solutions are:
+> 
+>   1. **In Development**: Currently being developed and not ready for use.
+>   1. **Not Reviewed**: Available for use but has not been reviewed. Therefore, might contain non-idiomatic Elixir.
+>   1. **Reviewed**: Available for use and has been reviewed.
+>
+> Learn more about the reviewing process [here](https://elixirland.dev/reviewing).
 
-## Description
-### Background
+## Introduction
 Saša recently joined a team of developers and volunteered to build a random username generator. The team’s software requires users to log in via third-party authorization (e.g., Google, Apple, GitHub), and each user must have a unique username. Initially, the team considered requiring users to choose their usernames upon first login, but they decided to assign random usernames instead. Users can change their usernames later in the settings.
 
-### Task
+## Task
 Develop a package that allows users to generate random usernames. Ensure your implementation meets the following requirements:
   - Adheres to idiomatic Elixir practices
   - Is well-tested
   - Is easily understandable by others, not just yourself
 
-### Requirements
-#### Usernames
+## Requirements
+### Usernames
   - The generator must be able to generate at least 600,000 unique usernames
   - Usernames must consist of existing English words
   - Words in a username are separated by a hyphen (-) by default, with an option to choose other single-character delimiters
     
-#### Documentation
+### Documentation
   - A detailed README.md that provides users with all the information they need
   - Includes instructions about how to install the package
   - Includes information about the limitations of the generator
