@@ -15,7 +15,7 @@ Solution:    *In Development*
 > Learn more about the reviewing process [here](https://elixirland.dev/reviewing).
 
 ## Introduction
-Saša recently joined a team of developers and volunteered to build a random username generator. The team’s software requires users to log in via third-party authorization (e.g., Google, Apple, GitHub), and each user must have a unique username. Initially, the team considered requiring users to choose their usernames upon first login, but they decided to assign random usernames instead. Users can change their usernames later in the settings.
+Saša recently joined a team of developers and volunteered to build a random username generator. The team’s software requires users to log in via third-party authorization (e.g., Google, Apple or GitHub), and each user must have a unique username. Initially, the team considered requiring users to choose their usernames upon first login, but they decided to assign random usernames instead. Users can change their usernames later in the settings.
 
 ## Task
 Develop a package that allows users to generate random usernames. Ensure your implementation meets the following requirements:
